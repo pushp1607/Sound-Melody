@@ -14,7 +14,7 @@ demo video: (https://www.youtube.com/watch?v=knqfJlnTjtQ)
 
 
 ## Features
-* login to create and listen to your playlists
+* login to create and listen to your playlist
 * download song when you are logged in
 * lazy, paginated fetching
 * player play/stop/forward/backward track
