@@ -3,11 +3,6 @@
 
 A music app made with React + Redux + Nodejs
 
-![image](https://user-images.githubusercontent.com/47851878/124370432-f1d44d80-dca1-11eb-8eca-af7a043191f1.png)
-
-
-![image](https://user-images.githubusercontent.com/20469909/41728185-5a3e2380-75a0-11e8-8356-fc0a810934eb.png)
-
 
 ## Features
 * login to create and listen to your playlist
