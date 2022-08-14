@@ -1,11 +1,7 @@
-# :musical_note: Echo
+# :musical_note: Sound Melody
 
-Visit website at: http://echo.codingstack.net/
-
-[![Build Status](https://travis-ci.org/dkakashi69/Echo.svg?branch=master)](https://travis-ci.org/dkakashi69/Echo)
 
 A music app made with React + Redux + Nodejs
-demo video: (https://www.youtube.com/watch?v=knqfJlnTjtQ)
 
 ![image](https://user-images.githubusercontent.com/47851878/124370432-f1d44d80-dca1-11eb-8eca-af7a043191f1.png)
 
@@ -47,16 +43,6 @@ Navigate to http://localhost:8000 in your browser to explore the app
 ```
  $ npm start
 ```
-Or
-* Build with Docker Compose
-
-```
-$ docker-compose build
-$ docker-compose up
-```
 
 After building the app, frontend and backend servers will be merged into a single server and be available at http://localhost:3000
 
-## Contributors
-- [Anh Thi](https://github.com/anhthii)
-- [Nguyen Van Quyen Luc](https://github.com/quyenluc22082000)
